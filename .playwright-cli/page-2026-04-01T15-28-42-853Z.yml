@@ -1,0 +1,13 @@
+- generic [ref=e3]:
+  - heading "500" [level=1] [ref=e5]
+  - paragraph [ref=e6]: "[nuxt] [asyncData] key must be a string."
+  - generic [ref=e9]:
+    - generic [ref=e10]: at setup (G:\Object\Boke\apps\web\pages\posts\index.js:91:79)
+    - generic [ref=e11]: at _sfc_main.setup (G:\Object\Boke\apps\web\pages\posts\index.js:278:23)
+    - generic [ref=e12]: at callWithErrorHandling (G:\Object\Boke\node_modules\@vue\runtime-core\dist\runtime-core.cjs.js:200:19)
+    - generic [ref=e13]: at setupStatefulComponent (G:\Object\Boke\node_modules\@vue\runtime-core\dist\runtime-core.cjs.js:8063:25)
+    - generic [ref=e14]: at setupComponent (G:\Object\Boke\node_modules\@vue\runtime-core\dist\runtime-core.cjs.js:8025:36)
+    - generic [ref=e15]: at renderComponentVNode (G:\Object\Boke\node_modules\@vue\server-renderer\dist\server-renderer.cjs.js:707:15)
+    - generic [ref=e16]: at renderVNode (G:\Object\Boke\node_modules\@vue\server-renderer\dist\server-renderer.cjs.js:841:14)
+    - generic [ref=e17]: at renderVNodeChildren (G:\Object\Boke\node_modules\@vue\server-renderer\dist\server-renderer.cjs.js:857:5)
+    - generic [ref=e18]: at renderVNode (G:\Object\Boke\node_modules\@vue\server-renderer\dist\server-renderer.cjs.js:829:7)

@@ -1,0 +1,16 @@
+{
+  "name": "@boke/web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev --host 127.0.0.1 --port 3001",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxt/kit": "3.13.2",
+    "markdown-it": "^14.1.0",
+    "nuxt": "3.13.2"
+  }
+}

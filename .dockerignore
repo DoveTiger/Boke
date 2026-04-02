@@ -1,0 +1,7 @@
+.git
+.gitignore
+node_modules
+apps/api/node_modules
+apps/api/dist
+**/*.log
+docs

@@ -16,6 +16,9 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'description', content: 'Technical notes on AI applications and embedded systems.' },
       ],
+      link: [
+         { rel: 'icon', type: 'image/svg+xml', href: '/favicon-20260403.svg', sizes: 'any' },
+      ],
     },
   },
 
